@@ -1,0 +1,56 @@
+			case 0:
+				self setOrigin((-1161, 1313.93, -10.1126));
+				break;
+			case 1:
+				self setOrigin((-1370.26, 1280.47, -12.6952));
+				break;
+			case 2:
+				self setOrigin((-1547.61, 1204.45, -10.3412));
+				break;
+			case 3:
+				self setOrigin((-1624.6, 1101.29, -4.8278));
+				break;
+			case 4:
+				self setOrigin((-1647.37, 949.817, -13.0203));
+				break;
+			case 5:
+				self setOrigin((-1605.56, 837.988, -2.65602));
+				break;
+			case 6:
+				self setOrigin((-1516.17, 683.7, -12.281));
+				break;
+			case 7:
+				self setOrigin((-1338.29, 509.274, 3.06208));
+				break;
+			case 8:
+				self setOrigin((-1143.63, 407.986, -6.963));
+				break;
+			case 9:
+				self setOrigin((-895.991, 469.302, -8.17812));
+				break;
+			case 10:
+				self setOrigin((-821.019, 498.332, 24.4458));
+				break;
+			case 11:
+				self setOrigin((-666.549, 680.621, -5.455));
+				break;
+			case 12:
+				self setOrigin((-743.46, 840.112, -5.0366));
+				break;
+			case 13:
+				self setOrigin((-748.79, 1136.38, -13.2611));
+				break;
+			case 14:
+				self setOrigin((-729.941, 1270.78, 19.8244));
+				break;
+			case 15:
+				self setOrigin((-708.162, 1477.69, -10.3434));
+				break;
+			case 16:
+				self setOrigin((-737.449, 1729.7, -5.646));
+				break;
+			case 17:
+				self setOrigin((-1013.9, 1589.25, -8.7478));
+				break;
+			default:
+				break;
